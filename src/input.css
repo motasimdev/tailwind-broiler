@@ -1,4 +1,18 @@
 @import "tailwindcss";
 
 @theme {
+    /* Container */
+    --spacing-header_container: ; 
+    /* Container */
+
+    /* Google Fonts */
+    --font-manrope: "Manrope", "sans-serif";
+    --font-poppins: "Poppins", "sans-serif";
+    /* Google Fonts */
+
+    /* Colors  */
+    --color-header_bg: #171A2B;
+    --color-main: #FF3B00;
+    --color-nav_bg: #05091D;
+    /* Colors  */
 }
